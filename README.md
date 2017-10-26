@@ -16,7 +16,7 @@ Permet de choisir le contenu du fichier de configuration Vagrantfile
 configure automatiquement le fichier Vagrantfile
 
 ## TECHNOLOGIES
-*script shell en bash
-*gestionnaire de machine virtuelle : virtualbox
-*machine virtuelle : vagrant
+* script shell en bash
+* gestionnaire de machine virtuelle : virtualbox
+* machine virtuelle : vagrant
 
